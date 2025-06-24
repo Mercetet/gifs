@@ -26,7 +26,7 @@
 
 ## Instalación
 
-1. Cloná el repositorio con git clone <link>,
+1. Cloná el repositorio con git clone < link >,
 2. Instala las dependencias con npm install,
 3. Ejecuta la aplicacion en modo desarrollo con npm run dev.
 
